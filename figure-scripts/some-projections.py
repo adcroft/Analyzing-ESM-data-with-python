@@ -1,7 +1,3 @@
-import cartopy
-import numpy
-import matplotlib.pyplot as plt
-
 def xyz2ll(x,y,z):
     i_r = 1/numpy.sqrt(x*x + y*y + z*z)
     sinlat = z*i_r
