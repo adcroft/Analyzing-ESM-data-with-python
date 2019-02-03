@@ -16,9 +16,10 @@ Welcome to the web version of "Analyzing ESM data with python"
    4-Problems-with-curvilinear-and-spherical-coordinates.ipynb
    5-Visualizing-spherical-data-using-cartopy.ipynb
    6-Reading-and-plotting-with-xarray.ipynb
-   7-Deeper-dive-into-pcolormesh.ipynb
-   8-Coordinates-Projections-and-Grids.ipynb
-   9-Operations-on-a-grid.ipynb
+   7-Reading-and-plotting-with-iris.ipynb
+   8-Deeper-dive-into-pcolormesh.ipynb
+   9-Coordinates-Projections-and-Grids.ipynb
+   10-Operations-on-a-grid.ipynb
 
 Indices and tables
 ==================
